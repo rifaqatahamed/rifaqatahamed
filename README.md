@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:111827,50:312E81,100:06B6D4&text=RIFAQAT%20AHAMED%20A%20G&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Learning%20and%20Building&descAlignY=60&descSize=15" width="100%" alt="Profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0a,50:111111,100:DC2626&text=RIFAQAT%20AHAMED%20A%20G&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Learning%20and%20Building&descAlignY=60&descSize=15" width="100%" alt="Profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+SRM;Learning+C+and+Java;Building+my+programming+foundations;Growing+one+line+of+code+at+a+time" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+SRM;Learning+C+and+Java;Building+my+programming+foundations;Growing+one+line+of+code+at+a+time" alt="Animated introduction" />
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-Learning%20%26%20Growing-0891B2?style=for-the-badge&labelColor=111827" alt="Status" />
-  <img src="https://img.shields.io/badge/EDUCATION-B.Tech%20CSE-6D28D9?style=for-the-badge&labelColor=111827" alt="Education" />
+  <img src="https://img.shields.io/badge/STATUS-Learning%20%26%20Growing-DC2626?style=for-the-badge&labelColor=111827" alt="Status" />
+  <img src="https://img.shields.io/badge/EDUCATION-B.Tech%20CSE-DC2626?style=for-the-badge&labelColor=111827" alt="Education" />
 </p>
 
 </div>
@@ -34,23 +34,23 @@ I'm currently strengthening my programming fundamentals and learning Java alongs
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Learning-06B6D4?style=flat-square&logo=c&logoColor=white" alt="C learning" />
-  <img src="https://img.shields.io/badge/Java-Learning-7C3AED?style=flat-square&logo=openjdk&logoColor=white" alt="Java learning" />
+  <img src="https://img.shields.io/badge/C-Learning-DC2626?style=flat-square&logo=c&logoColor=white" alt="C learning" />
+  <img src="https://img.shields.io/badge/Java-Learning-DC2626?style=flat-square&logo=openjdk&logoColor=white" alt="Java learning" />
 </p>
 
 *I will add more technologies here as I learn and gain practical experience.*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rifaqatahamed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=rifaqatahamed&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaqatahamed&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Most used programming languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rifaqatahamed&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" alt="Most used programming languages" />
 
-<img src="https://streak-stats.demolab.com?user=rifaqatahamed&theme=transparent&hide_border=true&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=rifaqatahamed&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" alt="GitHub contribution streak" />
 
 </div>
 
@@ -61,9 +61,9 @@ I'm currently strengthening my programming fundamentals and learning Java alongs
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifaqatahamed/rifaqatahamed/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifaqatahamed/rifaqatahamed/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rifaqatahamed/rifaqatahamed/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -85,11 +85,11 @@ I'm currently strengthening my programming fundamentals and learning Java alongs
 <div align="center">
 
 <a href="https://github.com/rifaqatahamed">
-  <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-111827?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub profile" />
 </a>
 
 <p><i>Learning today. Building tomorrow. Improving every day.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06B6D4,50:312E81,100:111827&section=footer" width="100%" alt="Profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DC2626,50:111111,100:0a0a0a&section=footer" width="100%" alt="Profile footer" />
 
 </div>
