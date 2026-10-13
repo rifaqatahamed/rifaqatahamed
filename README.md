@@ -21,9 +21,9 @@ I'm currently strengthening my programming fundamentals and learning Java alongs
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering
 - 🏫 **College:** SRM Institute of Science and Technology, Kattankulathur
-- 📚 **Currently learning:** C,python and Java
+- 📚 **Currently learning:** C and Java
 - 🎯 **Current focus:** Programming fundamentals and problem-solving
-- 🚀 **Goal:** Keep learning, build projects, and grow as a developer in full stack
+- 🚀 **Goal:** Keep learning, build projects, and grow as a software developer
 
 ---
 
